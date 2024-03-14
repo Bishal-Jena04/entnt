@@ -4,14 +4,14 @@ This project aims to streamline essential company operations through an intuitiv
 
 # Documentation
 
-Features
+Features:
 
 1. Dashboard: Provides an overview of key metrics and features.
 2. Product Management: Allows for the management of product listings, including adding, editing, and deleting products.
 3. Order Management: Facilitates viewing and handling orders, including viewing order details, updating order status, and deleting orders.
 4. Orders Calendar View: Displays orders on their expected delivery dates in a calendar format.
 
-Interacting with the Website
+Interacting with the Website:
 
 1. Dashboard: Provides an overview of key metrics and features. Click on links or buttons to navigate to other sections of the website.
 2. Product Management: Manage product listings, including adding, editing, and deleting products. Use the provided forms and buttons to perform actions on products.
